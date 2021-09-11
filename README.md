@@ -4,6 +4,8 @@ SCP: Secret Laboratory EXILED plugin that allows players to interact with tesla 
 ## Installation
 Move .dll file from latest [release](https://github.com/RomanKochetov/TeslaPass/releases) to your plugins folder.
 
+**Required EXILED Version: 3.0.0**
+
 ## Usage
 When the player with specific role enters a room with the tesla gate, he will be prompted to enter the ".disable" command in order to disable tesla gate for a certain time.
 
